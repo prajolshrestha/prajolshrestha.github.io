@@ -1,6 +1,14 @@
 ## Prajol Shrestha - The Github Page
 
-Hey everyone I'm Prajol, and welcome to the GitHub page! 
+Hey everyone I'm Prajol, and welcome to the GitHub page! I'm writing content on a variety of topics, including:
+
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Audio and Speech Processing
+- Generative AI
+
+The content I create reflects how I would have wanted to learn about Multi-model Signal Processing.
 
 
 ## Recent Posts
