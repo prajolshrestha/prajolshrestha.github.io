@@ -55,4 +55,6 @@ $wsl -l -v
 - Connect to a remote window (connect to WSL)
 - Everything sets up automatically!
 
+## Reference
+https://learn.microsoft.com/en-us/windows/wsl/basic-commands
 
