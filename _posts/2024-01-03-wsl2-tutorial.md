@@ -52,6 +52,7 @@ $wsl -l -v
 ```
 ## How to use WSL within VScode?
 - Go to VScode
+- Install WSL extension (to open any folder in WSL)
 - Connect to a remote window (connect to WSL)
 - Everything sets up automatically!
 
