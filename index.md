@@ -2,7 +2,7 @@
 
 Hey everyone I'm Prajol, and welcome to the GitHub page! I'm writing content on a variety of topics, including:
 
-- Deep Learning
+- [Deep Learning]({% post_url 2024-01-14-deep-learning %})
 - Computer Vision
 - Natural Language Processing
 - Audio and Speech Processing
