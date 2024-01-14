@@ -6,8 +6,7 @@ Hey everyone I'm Prajol, and welcome to the realm of knowledge and exploration! 
 - Computer Vision: Vision beyond Pixels
 - Natural Language Processing: Language of Thought
 - Audio and Speech Processing: Symphony of life
-- Mathematics: Beyond equations and theorems
-- Digital Signal Processing
+- [Mathematics: Beyond equations and theorems]({% post_url 2024-01-14-Mathematics %})
 - [Philosophy: The Heartbeat of Knowledge]({% post_url 2024-01-14-Philosophy %})
 
 
