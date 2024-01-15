@@ -3,19 +3,21 @@ layout: default
 title: Mathematics
 ---
 
-# Geometry - Shape
+# Beyond equations and theorems
+
+## Geometry - Shape
 
 
-# Linear Algebra - Relation
+## Linear Algebra - Relation
 
 
-# Calculus - Change
+## Calculus - Change
 
 
-# Matrix Calculus - Relation and change
+## Matrix Calculus - Relation and change
 
 
-# Probability - Chance
+## Probability - Chance
 
 
-# Statistics - Analysis
+## Statistics - Analysis
