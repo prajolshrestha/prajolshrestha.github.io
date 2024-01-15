@@ -7,6 +7,7 @@ I'm writing content on a variety of topics, including:
 ### 1. Technology: Decoding the Digital Universe
 - [Deep Learning]({% post_url 2024-01-14-Deep-Learning %})
 - Computer Vision: Vision beyond Pixels
+- Image & Video Processing: Language of Vision
 - Natural Language Processing: Language of Thought
 - Audio and Speech Processing: Symphony of Life
 - Cognitive Neuroscience: Philosophy of Mind
