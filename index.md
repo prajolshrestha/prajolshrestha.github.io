@@ -16,11 +16,11 @@ I'm writing content on a variety of topics, including:
 - Extra Material
   
 ### 2. Life: Reflection of thoughts and actions
-✍️ [Philosophy: The Heartbeat of Knowledge]({% post_url 2024-01-14-Philosophy %})
-🧠 Psychology: Study of Mind & Behavior
-📑 Self-improvement & Productivity: For continuous growth
-📚 Books: Portals to different dimensions
-🧯 Extra Material
+- [Philosophy: The Heartbeat of Knowledge]({% post_url 2024-01-14-Philosophy %})
+- Psychology: Study of Mind & Behavior
+- Self-improvement & Productivity: For continuous growth
+- Books: Portals to different dimensions
+- Extra Material
 
 The content I create reflects how I would have wanted to learn about Technology & Life.
 
