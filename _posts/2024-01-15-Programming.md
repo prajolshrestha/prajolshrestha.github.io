@@ -19,9 +19,9 @@ Basics                                Intermediate
 ```
 ```
 Projects
-1. Vectors & Matrices                
-2. Translate Formula into code       
-3. Descriptive Statistics
+1. Noise Cancellation
+2. Detect Muscle Movement from ECG Signals
+3. 
 
 Big Projects
 1. HEVC (6 month workload)                      
