@@ -12,7 +12,7 @@ I'm writing content on a variety of topics, including:
 - Audio and Speech Processing: Symphony of Life
 - Cognitive Neuroscience: Philosophy of Mind
 - [Mathematics: Language of Universe]({% post_url 2024-01-14-Mathematics %})
-- Programming: Language of Logic
+- [Programming: Language of Logic]({% post_url 2024-01-15-Programming %})
 - Extra Material
   
 ### 2. Life: Reflection of thoughts and actions
