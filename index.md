@@ -1,6 +1,6 @@
 # Prajol Shrestha - Tech & Life
 
-Hey everyone I'm Prajol, and welcome to the realm of knowledge and exploration! I believe that the pursuit of knowledge extends into the boundless realms of understanding and wisdom. Here, I explore multiple dimensions of technology and life. 
+Hey everyone I'm Prajol, and welcome to the realm of knowledge and exploration! I believe that the pursuit of knowledge is boundless. Here, I explore multiple dimensions of technology and life. 
 
 I'm writing content on a variety of topics, including:
 
@@ -8,13 +8,15 @@ I'm writing content on a variety of topics, including:
 - [Deep Learning]({% post_url 2024-01-14-Deep-Learning %})
 - Computer Vision: Vision beyond Pixels
 - Natural Language Processing: Language of Thought
-- Audio and Speech Processing: Symphony of life
+- Audio and Speech Processing: Symphony of Life
+- Cognitive Neuroscience: Philosophy of Mind
 - [Mathematics: Language of Universe]({% post_url 2024-01-14-Mathematics %})
 - Programming: Language of Logic
 - Extra Material
   
 ### 2. Life: Reflection of thoughts and actions
 - [Philosophy: The Heartbeat of Knowledge]({% post_url 2024-01-14-Philosophy %})
+- Psychology: Study of Mind & Behavior
 - Self-improvement & Productivity: For continuous growth
 - Books: Portals to different dimensions
 - Extra Material
