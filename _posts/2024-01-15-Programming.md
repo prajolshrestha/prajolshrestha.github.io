@@ -1,3 +1,8 @@
+---
+layout: default
+title: Programming
+---
+
 # My Programming journey
 
 ## Matlab
@@ -49,8 +54,8 @@ Big Projects
 ```
 ## C++
 ```
-Basics                                 Intermediate                          Advanced (Running)         Projects
-1. Data types                          1. OOPs                               1. Parallel STL Algo                                       
+Basics                                 Intermediate                          Advanced (Running)         
+1. Data types                          1. OOPs                               1. Parallel STL Algo                             
 2. Variables                             - structs                           2. Threads
 3. Conditionals                          - Classes                           3. std::atomic, std::mutex
 4. Array & Vector                        - Constructors                      4. 
