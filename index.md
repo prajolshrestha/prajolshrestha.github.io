@@ -1,19 +1,23 @@
-## Prajol Shrestha - Tech & Life
+# Prajol Shrestha - Tech & Life
 
-Hey everyone I'm Prajol, and welcome to the realm of knowledge and exploration! I believe that the pursuit of knowledge extends beyond the binary world of ones and zeros. Here, I delve into dimensions that intertwine with the intricate tapestry of technology and life. I'm writing content on a variety of topics, including:
+Hey everyone I'm Prajol, and welcome to the realm of knowledge and exploration! I believe that the pursuit of knowledge extends into the boundless realms of understanding and wisdom. Here, I explore multiple dimensions of technology and life. 
 
-### 1. Technology
+I'm writing content on a variety of topics, including:
+
+### 1. Technology: Decoding the Digital Universe
 - [Deep Learning]({% post_url 2024-01-14-Deep-Learning %})
 - Computer Vision: Vision beyond Pixels
 - Natural Language Processing: Language of Thought
 - Audio and Speech Processing: Symphony of life
-- [Mathematics: Beyond equations and theorems]({% post_url 2024-01-14-Mathematics %})
-
-### 2. Life
+- [Mathematics: Language of Universe]({% post_url 2024-01-14-Mathematics %})
+- Programming: Language of Logic
+- Extra Material
+  
+### 2. Life: Reflection of thoughts and actions
 - [Philosophy: The Heartbeat of Knowledge]({% post_url 2024-01-14-Philosophy %})
-- Self-improvement & Productivity
-- Books
-
+- Self-improvement & Productivity: For continuous growth
+- Books: Portals to different dimensions
+- Extra Material
 
 The content I create reflects how I would have wanted to learn about Technology & Life.
 
@@ -21,3 +25,7 @@ The content I create reflects how I would have wanted to learn about Technology 
 ## Recent Posts
 
 - [Tutorial on WSL2]({% post_url 2024-01-03-wsl2-tutorial %})
+
+
+## Contact
+- [Linkedln](https://www.linkedin.com/in/prajolshresthaa/)
