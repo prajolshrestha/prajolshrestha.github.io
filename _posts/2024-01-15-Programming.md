@@ -5,7 +5,7 @@ title: Programming
 
 # My Programming journey
 
-## Matlab
+## Matlab: Numerical computations and simulations.
 ```
 Basics                                Intermediate          
 1. Vectors & Matrices                 1. Matrix Analysis    
@@ -26,7 +26,7 @@ Projects
 Big Projects
 1. HEVC (6 month workload)                      
 ```
-## Python --> Everything is an object!
+## Python : General-purpose programming language (Machine Learning) --> Everything is an object!
 ```
 Basics (1 Month)            Intermediate (6 Months)               Advanced (Running)        
 1. Data types               1. OOPs                               1. Decorators              
@@ -50,9 +50,9 @@ Projects
 3. Audio Projects
 
 Big Projects
-1. Object detection & recognition in maps
+1. Object detection & recognition in maps (going on)
 ```
-## C++
+## C++ : Systems programming language
 ```
 Basics                                 Intermediate                          Advanced (Running)         
 1. Data types                          1. OOPs                               1. Parallel STL Algo                             
@@ -78,7 +78,10 @@ Basics                                 Intermediate                          Adv
                                         13. Constexpr
                                         14. Concepts
 
-                                
+
+Projects:
+1. 
+                              
 ```
 ```
 Software development:
