@@ -101,3 +101,11 @@ Software development:
 12. Cmake
 13. Recursive Cmake  
 ```
+
+## Parallel C++: 
+```
+Basics:
+1. Workload Distribution
+2. Static/Dynamic Partitioning
+3.
+```
