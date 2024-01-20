@@ -102,7 +102,7 @@ Software development:
 13. Recursive Cmake  
 ```
 
-## Parallel C++: 
+## Parallel C++: Accelerated Computing
 ```
 Basics:
 1. Workload Distribution
