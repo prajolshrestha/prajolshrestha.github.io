@@ -28,6 +28,7 @@ The content I create reflects how I would have wanted to learn about Technology 
 ## Recent Posts
 
 💻 [Tutorial on WSL2]({% post_url 2024-01-03-wsl2-tutorial %})
+- [How to connect github with WSL?]({% post_url 2024-01-21-connect_github_with_wsl %})
 - [How to install Rust on WSL?]({% post_url 2024-01-21-How to install Rust in WSL? %})
 
 
