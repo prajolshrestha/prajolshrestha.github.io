@@ -26,7 +26,7 @@ Your public key has been saved in git_key.pub
 ````
 Note: .ssh/id_rsa folder should have git_key.pub, else copy and paste here.
 
-3.Add SSH Key to SSH Agent:
+3. Add SSH Key to SSH Agent:
 
 Start the SSH agent: 
 ````
