@@ -6,15 +6,16 @@ title: Connect github in WSL
 To connect GitHub with the Windows Subsystem for Linux (WSL), you can follow these general steps. 
 This assumes that you have WSL installed on your Windows machine.
 
-1. Install Git on WSL:
+### Install Git on WSL:
 ````
 sudo apt install git
 ````
 
-2. Generate SSH Key:
+### Generate SSH Key:
 ````
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ````
+Follow this:
 ````
 ~$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 Generating public/private rsa key pair.
@@ -26,7 +27,7 @@ Your public key has been saved in id_rsa.pub
 ````
   Note: .ssh/id_rsa folder should have id_rsa.pub, else copy and paste here.
 
-3. Add SSH Key to SSH Agent:
+### Add SSH Key to SSH Agent:
 
   Start the SSH agent: 
 ````
@@ -37,7 +38,7 @@ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
 ````
 
-4. Copy SSH Key to GitHub:
+### Copy SSH Key to GitHub:
 
   Display your public key: 
 ````
@@ -46,7 +47,7 @@ cat ~/.ssh/id_rsa.pub
   Copy the output.
   Go to your GitHub account settings, navigate to "SSH and GPG keys," and add a new SSH key. Paste the copied key into the key field.
 
-5. Test SSH Connection:
+### Test SSH Connection:
 
   Test your SSH connection to GitHub: 
 ````
@@ -54,7 +55,7 @@ ssh -T git@github.com
 ````
   You should see a message indicating successful authentication.
 
-6. Configure Git with Your Identity:
+### Configure Git with Your Identity:
 
   Configure Git with your GitHub username and email:
 ````
@@ -62,7 +63,7 @@ git config --global user.name "Your GitHub Username"
 git config --global user.email "your_email@example.com"
 ````
 
-7. Clone a Repository:
+### Clone a Repository:
 ````
 git clone git@github.com:username/repository.git
 ````
