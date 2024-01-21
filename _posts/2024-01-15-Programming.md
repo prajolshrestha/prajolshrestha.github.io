@@ -109,3 +109,15 @@ Basics:
 2. Static/Dynamic Partitioning
 3.
 ```
+
+## Rust: Memory safe + Performance!
+```
+Basics:
+1. Cargo package manager
+2. Variables
+3. Functions
+4. Control Flow
+5.
+6.
+
+```
