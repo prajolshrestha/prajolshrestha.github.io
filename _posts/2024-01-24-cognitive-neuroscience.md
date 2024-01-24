@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Windows subsystem for Linux (WSL)
+title: Cognitive Neuroscience
 ---
 
 # Study of Mind
 
 Mind: Information processor (Represent and transform information)
 
-### Brain Structure & Function
+### A. Brain Structure & Function
 - The Brain:
     1. Cerebral cortex
     2. Cerebellum
@@ -21,11 +21,11 @@ Mind: Information processor (Represent and transform information)
     5. Measuring neural activity
     6. Neural connectivity
   
-### Methods of Cognitive Neuroscience
+### B. Methods of Cognitive Neuroscience
 - Lesioning
-- Laterialization
+- Lateralization
 
-### Sensory Nervous System: Sensation & Perception
+### C. Sensory Nervous System: Sensation & Perception
 - Olfactory System: Sense of smell
 - Gustatory System: Sense of taste
 - Auditory System: Sense of hearing
@@ -46,7 +46,7 @@ Mind: Information processor (Represent and transform information)
     3. Brain Machine Interface (BMI)
 - Vocal System: Voice and language
 
-### Memory
+### D. Memory
 External World ---> Sensory Processor ---> Short-term/Working Memory ---> Long-term Memory
 
 - Types of Memory:
@@ -54,16 +54,16 @@ External World ---> Sensory Processor ---> Short-term/Working Memory ---> Long-t
     2. Short-term Memory
     3. Working Memory
     4. Long-term Memory
-- Free will: Act without external influnces
+- Free will: Act without external influences
 - Consciousness: Awareness of internal and external existence
     Theory:
     1. Global workspace theory
     2. Integrated information theory
     3. Damasio's theory of consciousness
          - Emotions: Collection of unconscious neural responses to int/external stimuli
-         - Feeling(2nd order emotion): Arises when organism becomes aware of changes it is experiencing
+         - Feeling(2nd order emotion): Arises when an organism becomes aware of changes it is experiencing
 
-    Q. Will we ever have conscious machine?
-      ==> Many important algorithms has been devised, however, many additional techniques have to be descovered yet.
+    Q. Will we ever have a conscious machine?
+      ==> Many important algorithms have been devised, however, many additional techniques have to be discovered yet.
 
   
