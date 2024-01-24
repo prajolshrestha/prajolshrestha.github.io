@@ -11,7 +11,8 @@ Prerequisites
 - [Applied Mathematics: Language of Universe]({% post_url 2024-01-14-Mathematics %})
 - [Programming: Language of Logic]({% post_url 2024-01-15-Programming %})
 - Computer Architecture: Blueprint of Computation
-- Communication: 
+- Operating System
+- Communication
 
 Multi-Model Signal Processing | Understanding Signals
 - Image & Video Processing: Language of Vision
