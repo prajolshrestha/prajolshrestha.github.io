@@ -22,7 +22,7 @@ Multi-Model Signal Processing | Understanding Signals
 Artificial Intelligence | Exploring the Unseen Dimensions of Intelligence
 - Machine Learning: Pattern Recognition and Analysis
 - Computer Vision: Beyond Pixels
-- Cognitive Neuroscience: Philosophy of Mind
+- [Cognitive Neuroscience: Philosophy of Mind]({ post_url %2024-01-24-cognitive-neuroscience %})
 - [Deep Learning]({% post_url 2024-01-14-Deep-Learning %})
 
 - Extra Material: Additional insights
