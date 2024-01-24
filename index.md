@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Tech & Life: Quest | Prajol Shrestha 
 
 Hey everyone I'm Prajol, and welcome to the realm of knowledge and exploration! 
