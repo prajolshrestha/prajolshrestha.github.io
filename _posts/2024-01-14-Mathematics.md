@@ -3,21 +3,21 @@ layout: default
 title: Mathematics
 ---
 
-# Beyond equations and theorems
+# Big Picture of Mathematics Beyond equations and theorems 
 
-## Geometry - Shape
-
-
-## Linear Algebra - Relation
+### 1. Geometry - Shape
 
 
-## Calculus - Change
+### 2. Linear Algebra - Relation
 
 
-## Matrix Calculus - Relation and change
+### 3. Calculus - Change
 
 
-## Probability - Chance
+### 4. Matrix Calculus - Relation and change
 
 
-## Statistics - Analysis
+### 5. Probability - Chance
+
+
+### 6. Statistics - Analysis
