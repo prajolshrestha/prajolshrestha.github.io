@@ -14,8 +14,8 @@ I'm writing content on a variety of topics, including:
 - [Applied Mathematics: Language of Universe]({% post_url 2024-01-14-Mathematics %})
 - [Programming: Language of Logic]({% post_url 2024-01-15-Programming %})
 - [Computing System]({% post_url 2024-01-26-computing-system %})
-- Operating System
-- Communication
+- [Operating System]({% post_url 2024-01-26-operating-system %})
+- Communication 
 
 #### Multi-Model Signal Processing | Understanding Signals
 - Image & Video Processing: Language of Vision
