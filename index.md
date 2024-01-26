@@ -27,6 +27,7 @@ I'm writing content on a variety of topics, including:
 - [Machine Learning: Pattern Recognition and Analysis]({% post_url 2024-01-26-machine-learning %})
 - [Cognitive Neuroscience: Philosophy of Mind]({% post_url 2024-01-24-cognitive-neuroscience %})
 - [Deep Learning]({% post_url 2024-01-14-Deep-Learning %})
+- Meta-Learning
 - Extra Material: Additional insights
   
 ### 2. Life: Reflection of thoughts and actions
