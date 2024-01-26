@@ -42,8 +42,6 @@ title: Deep Learning
 - Distributional Reinforcement Learning
 - Hierarchical Reinforcement Learning
   
-- Meta-Learning
-- Self-Play
 
 #  Deep Learning Research
 - Linear Factor Models
@@ -53,4 +51,4 @@ title: Deep Learning
 - Monte Carlo Methods
 - Confronting the Partition Function
 - Approximate Inference
-- Deep Genereative Models
+- Deep Generative Models
