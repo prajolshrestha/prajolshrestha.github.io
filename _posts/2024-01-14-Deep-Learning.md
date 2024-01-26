@@ -41,7 +41,8 @@ title: Deep Learning
 - Model-Based Reinforcement Learning
 - Distributional Reinforcement Learning
 - Hierarchical Reinforcement Learning
-  
+
+- Self-Play
 
 #  Deep Learning Research
 - Linear Factor Models
