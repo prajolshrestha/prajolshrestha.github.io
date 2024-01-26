@@ -19,12 +19,12 @@ I'm writing content on a variety of topics, including:
 
 #### Multi-Model Signal Processing | Understanding Signals
 - Image & Video Processing: Language of Vision
+- Computer Vision: Beyond Pixels
 - Audio and Speech Processing: Language of Sound
 - Natural Language Processing: Language of Thought
   
 #### Artificial Intelligence | Exploring the Unseen Dimensions of Intelligence
-- Machine Learning: Pattern Recognition and Analysis
-- Computer Vision: Beyond Pixels
+- [Machine Learning: Pattern Recognition and Analysis]({% post_url 2024-01-26-machine-learning %})
 - [Cognitive Neuroscience: Philosophy of Mind]({% post_url 2024-01-24-cognitive-neuroscience %})
 - [Deep Learning]({% post_url 2024-01-14-Deep-Learning %})
 - Extra Material: Additional insights
