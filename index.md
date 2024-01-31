@@ -15,9 +15,11 @@ I'm writing content on a variety of topics, including:
 - [Programming: Language of Logic]({% post_url 2024-01-15-Programming %})
 - [Operating System]({% post_url 2024-01-26-operating-system %})
 - [Computing System]({% post_url 2024-01-26-computing-system %})
-- Communication 
+- Communication System
+- Memory System 
 
 #### Multi-Model Signal Processing | Understanding Signals
+- Digital Signal Processing 
 - Image & Video Processing: Language of Vision
 - Computer Vision: Beyond Pixels
 - Audio and Speech Processing: Language of Sound
