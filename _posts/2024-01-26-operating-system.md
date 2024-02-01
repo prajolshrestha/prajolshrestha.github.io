@@ -15,7 +15,6 @@ Used for: web development, server administration, and system programming.
 
 2. Windows:
 ```
-
 Windows is a series of proprietary operating systems developed by Microsoft.
 Windows is widely used in desktop and laptop computers, as well as in servers and embedded systems.
 
