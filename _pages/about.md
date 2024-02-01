@@ -6,15 +6,12 @@ sidebar: false
 about:
   template: trestles
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/maximelabonne
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/maxime-labonne/
+      href: https://www.linkedin.com/in/prajolshresthaa/
     - icon: github
       text: Github
-      href: https://github.com/mlabonne
+      href: https://github.com/prajolshrestha
 ---
 
 👋 **Greetings!** My name is Maxime Labonne, and I am currently a senior applied researcher at [JPMorgan Chase](https://www.jpmorganchase.com/). I hold a M.Sc. degree in computer science from [INSA CVL](https://www.insa-centrevaldeloire.fr/en), and a Ph.D. in machine learning and cyber security from the [Polytechnic Institute of Paris](https://www.ip-paris.fr/en).
