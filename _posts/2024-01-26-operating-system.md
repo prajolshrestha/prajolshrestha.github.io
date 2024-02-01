@@ -4,7 +4,7 @@ title: Operating System
 ---
 
 # Operating System
-1. Linux:
+## 1. Linux:
 ```
 Linux is a free and open-source operating system kernel initially developed by Linus Torvalds in 1991.
 Linux distributions (distros) such as Ubuntu, Fedora, and CentOS package the Linux kernel with additional software to create complete operating system distributions.
@@ -13,7 +13,7 @@ Take away: It offers a powerful command-line interface (CLI) and extensive suppo
 Used for: web development, server administration, and system programming.
 ```
 
-2. Windows:
+## 2. Windows:
 ```
 Windows is a series of proprietary operating systems developed by Microsoft.
 Windows is widely used in desktop and laptop computers, as well as in servers and embedded systems.
