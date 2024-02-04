@@ -7,9 +7,9 @@ title: Programming
 
 ## Matlab: Numerical computations and simulations.
 ```
-Basics                                Intermediate          
-1. Vectors & Matrices                 1. Matrix Analysis    
-2. Translate Formula into code        2.                    
+Basics                                                  Intermediate          
+1. Scalars, Vectors, Matrices & Tensors                 1. Matrix Analysis    
+2. Translate Formula into code                          2.                    
 3. Descriptive Statistics                                   
 4. Import & Export Data                                      
 5. 2D/3D Plotting                                          
@@ -23,10 +23,14 @@ Projects
 2. Detect Muscle Movement from ECG Signals
 3. 
 
-Big Projects
-1. HEVC (6 month workload)                      
+Big Projects (6 month workload)  
+1. HEVC
+  - Efficient Video Codec from scratch using MATLAB
+  - Added own extensions to get optimal PSNR and Bitrate
+  - Subjective Video Test and Human Evaluation on Video Codec
+  - Comparison with H.265 (FFmpeg)                   
 ```
-## Python : General-purpose programming language (Machine Learning) --> Everything is an object!
+## Python: General-purpose programming language (Machine Learning) --> Everything is an object!
 ```
 Basics (1 Month)            Intermediate (6 Months)               Advanced (Running)        
 1. Data types               1. OOPs                               1. Decorators              
@@ -36,7 +40,7 @@ Basics (1 Month)            Intermediate (6 Months)               Advanced (Runn
 5. Operators                5. Lambda, Map, Filter, Reduce        5. Parallelism             
 6. Control Flow             6. Collections                        6. Testing                
 7. Loops & Iterables        7. *Args & **kwargs                   7. Packages
-8. Functions                8. Inheritance                        8. cython
+8. Functions                8. Inheritance                        8. Cython
 9. Mutable vs Immutable     9. Dunder Methods                     10. Design patterns
 10. Common Methods          10. PIP
 11. File I/O                11. Environments
@@ -80,7 +84,8 @@ Basics                                 Intermediate                          Adv
 
 
 Projects:
-1. 
+1. Snake game using SFML library
+2. 
                               
 ```
 ```
@@ -90,6 +95,7 @@ Software development:
 3. Header Files & Guards
 4. Inline variables
 5. Clang-Format
+
 6. Dynamic & Static linking
 7. Static Libraries
 8. Shared Libraries
@@ -120,4 +126,14 @@ Basics:
 5.
 6.
 
+```
+
+## Assembly Language: x86 Machine code --> More control to Processor
+```
+1. Basic Instructions
+2. Jump Instructions
+3. Memory access & Stack Operations
+4. Function Calls, Prologue & epilogue
+5. Return values, args & calling C functions
+6. Create a function in assembly that can be called from C program
 ```
