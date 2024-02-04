@@ -5,6 +5,9 @@ title: Programming
 
 # My Programming journey
 
+- You can't build a great building on a weak foundation. You must have a solid foundation if you're going to have a strong superstructure.
+    --> Gordon B. Hinckley
+
 ## Matlab: Numerical computations and simulations.
 ```
 Basics                                                  Intermediate          
