@@ -14,9 +14,9 @@ I'm writing content on a variety of topics, including:
 - [Applied Mathematics: Language of Universe]({% post_url 2024-01-14-Mathematics %})
 - [Programming: Language of Logic]({% post_url 2024-01-15-Programming %})
 - [Operating System]({% post_url 2024-01-26-operating-system %})
-- [Computing System]({% post_url 2024-01-26-computing-system %})
 - Communication System
-- Memory System 
+- Memory System
+- [Computing System]({% post_url 2024-01-26-computing-system %})
 
 #### Multi-Model Signal Processing | Understanding Signals
 - Digital Signal Processing 
@@ -47,7 +47,7 @@ The content I create reflects how I would have wanted to learn about Technology 
 
 - [Tutorial on WSL2]({% post_url 2024-01-03-wsl2-tutorial %})
 - How to configure WSL?
-- [How to connect github with WSL?]({% post_url 2024-01-21-connect_github_with_wsl %})
+- [How to connect GitHub with WSL?]({% post_url 2024-01-21-connect_github_with_wsl %})
 - [How to install Rust on WSL?]({% post_url 2024-01-21-How to install Rust in WSL? %})
 
 
