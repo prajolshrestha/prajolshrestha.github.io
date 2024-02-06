@@ -1,6 +1,6 @@
 ---
-layout: Default
-title: Memory System
+layout: default
+title: Home
 ---
 
 # Memory System for efficient memory management in low-level programming
