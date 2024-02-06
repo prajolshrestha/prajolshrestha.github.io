@@ -1,7 +1,8 @@
 ---
-layout: Default
+layout: default
 title: Productivity
 ---
+
 
 
 # Productivity & Growth
