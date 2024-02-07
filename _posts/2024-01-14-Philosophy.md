@@ -26,6 +26,8 @@ Our individual purpose and meaning are not given to us by Gods, governments, tea
 4. Stoicism
 ```
 It is the belief that the practice of virtue is enough to achieve eudaimonia: a well-lived life.
+
+Stoicism is a philosophy that provides a framework for living a virtuous and fulfilling life by focusing on inner tranquillity, wisdom, and virtue.
 ```
 
 5. Individualism
