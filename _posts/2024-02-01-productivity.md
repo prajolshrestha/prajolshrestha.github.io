@@ -6,8 +6,9 @@ title: Productivity
 
 
 # Productivity & Growth
-- I believe in learning by doing.
-- Quotes are interesting, inspiring and provocative. But, it doesn't work magically by listening, writing or reading them. Quotes are not going to rescue you. You have to work on it. Life is a "Do it yourself" project.
+- I believe in learning by doing. Life is a "Do it yourself" project.
+- Quotes are interesting, inspiring and provocative. But, it doesn't work magically by listening, writing or reading them. Quotes are not going to rescue you. You have to work on it.
+- Progress is not an illusion; it happens, but it is slow and invariably disappointing. [You need to fight with patience].
 
 ## Q. How to improve decisions about health, wealth & Happiness?
 ```
