@@ -21,7 +21,7 @@ title: Productivity
 
 ## Q. How to (Read) Learn?
 ```
-1. Learn Theory + Math [For multiple iterations by taking notes] 
+1. Learn Theory + Math [For multiple iterations by taking notes] [Make your note-taking framework that best suits you]
 2. Repeat
 3. Get Intuition
 4. Code
