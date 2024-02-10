@@ -26,9 +26,9 @@ title: Productivity
 3. Get Intuition
 4. Code
 5. Go to 1. until you understand the Big Picture, then go to 6.
-6. Identify Information Gap. [Difference between existing Knowledge and objective]
-7. Focus on high-impact tasks. Don't get caught up in simply being busy. [Be productive, not busy]
-8. Use your data (prior + likelihood) to inform your decision of understanding
+6. Reality check: Use your data (prior + likelihood) to inform your decision of understanding. Do I make myself clear or am I trapped in an Intelligence trap?
+7. Identify Information Gap. [Difference between existing Knowledge and objective]
+8. Focus on high-impact tasks. Don't get caught up in simply being busy. [Be productive, not busy]
 9. Practice a lot
 10. Build things with your current skill set but not so complex that you drown.
 11. Spaced Repetition
