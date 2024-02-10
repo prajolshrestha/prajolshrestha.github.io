@@ -21,7 +21,7 @@ title: Productivity
 
 ## Q. How to (Read) Learn?
 ```
-1. Learn Theory + Math [For multiple iterations by taking notes] [Make your note-taking framework that best suits you]
+1. Learn Theory + Math [For multiple iterations by taking notes] [Create a note-taking framework that best suits you]
 2. Repeat
 3. Get Intuition
 4. Code
@@ -30,7 +30,7 @@ title: Productivity
 7. Identify Information Gap. [Difference between existing Knowledge and objective]
 8. Focus on high-impact tasks. Don't get caught up in simply being busy. [Be productive, not busy]
 9. Practice a lot
-10. Build things with your current skill set but not so complex that you drown.
+10. Get out of tutorial hell: Watching lots of tutorials/online courses gives you a false sense that you are making progress. [Take time to choose the right/useful tutorial only.] SOLUTION: Build things with your current skill set but not so complex that you drown.
 11. Spaced Repetition
 12. Retrieval Practice
 13. Meta-cognition (thinking about thinking)
@@ -41,13 +41,24 @@ title: Productivity
 It becomes super easy once you've failed a few times.
 ```
 
-## Q. How to focus? Do more in less time!
+## Q. What and How to focus? Do more in less time!
 ```
 Different ways to pay attention:
 1. Selective: Choosing what we pay attention to
 2. Divided: Focusing on multiple things  at the same time (not effective)
 3. Maintained: Pay attention to one thing for a long period of time
 4. Executive: Pay attention to a goal with a plan. [Hyper Focus]
+```
+```
+Basic requirements.
+1. Self-discipline.
+2. Be aware of your environment and workspace.
+3. Power of now.
+4. Power of curiosity.
+5. Power of habit.
+6. Power of solitude.
+
+1.  
 ```
 
 ## Q. What and How to Ignore? Strategic Ignorance
@@ -70,7 +81,8 @@ Different ways to pay attention:
 6. Growth mindset + self-care
 7. Self-reflection
 8. Continuous Learning (Never give up)
-9. Active Listening 
+9. Active Listening
+10. Plan your next 5 moves.
 ```
 
 ## Q. How to identify & manage stressful situation?
