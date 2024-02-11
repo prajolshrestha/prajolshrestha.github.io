@@ -30,7 +30,9 @@ title: Productivity
 7. Identify Information Gap. [Difference between existing Knowledge and objective]
 8. Focus on high-impact tasks. Don't get caught up in simply being busy. [Be productive, not busy]
 9. Practice a lot
-10. Get out of tutorial hell: Watching lots of tutorials/online courses gives you a false sense that you are making progress. [Take time to choose the right/useful tutorial only.] SOLUTION: Build things with your current skill set but not so complex that you drown.
+10. Get out of tutorial hell: Watching lots of tutorials/online courses gives you a false sense that you are making progress. [Take time to choose the right/useful tutorial only.] 
+Courses are good to know what you don't know. But quickly starting a project is practical approach to progress. 
+SOLUTION: Build things with your current skill set but not so complex that you drown.
 11. Spaced Repetition
 12. Retrieval Practice
 13. Meta-cognition (thinking about thinking)
