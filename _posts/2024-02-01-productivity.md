@@ -17,6 +17,10 @@ title: Productivity
 4. Try to make it easy to do the right thing & make it easy to avoid doing the wrong thing.
 5. Choice architecture: Be aware of the way choices are presented to us
 6. Frame choices in a positive way
+7. The quality of your decisions determines the quality of your life.
+8. The power of compounding applies not only to money, but also to knowledge, skills, habits, and relationships.
+9. The key to success is not intelligence, talent, or luck, but persistence, discipline, and hard work.
+10. 
 ```
 
 ## Q. How to (Read) Learn?
@@ -31,11 +35,12 @@ title: Productivity
 8. Focus on high-impact tasks. Don't get caught up in simply being busy. [Be productive, not busy]
 9. Practice a lot
 10. Get out of tutorial hell: Watching lots of tutorials/online courses gives you a false sense that you are making progress. [Take time to choose the right/useful tutorial only.] 
-Courses are good to know what you don't know. But quickly starting a project is practical approach to progress. 
+Courses are good to know what you don't know. But quickly starting a project is a practical approach to progress. 
 SOLUTION: Build things with your current skill set but not so complex that you drown.
 11. Spaced Repetition
 12. Retrieval Practice
 13. Meta-cognition (thinking about thinking)
+14. Continuous Learning (Be aware of the power of compounding ´|`)
 ```
 
 ## Q. How does failure contribute to success? Growth Mindset!
