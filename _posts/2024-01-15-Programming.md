@@ -26,7 +26,7 @@ Projects
 2. Detect Muscle Movement from ECG Signals
 3. 
 
-Big Projects (6 month workload)  
+Research Projects (approx 6-months workload)  
 1. HEVC
   - Efficient Video Codec from scratch using MATLAB
   - Added own extensions to get optimal PSNR and Bitrate
@@ -56,8 +56,15 @@ Projects
 2. Computer Vision Projects
 3. Audio Projects
 
-Big Projects
+Research Projects (approx. 6-months workload)
 1. Object detection & recognition in maps (going on)
+    [lET TRANSFORMER DECODE HISTORICAL MAPS]    
+    - Setup Python & CUDA C++-based Multimodal Neural Network on High-performance Computing (HPC)
+    - Inference & Evaluate on Weinmann dataset using the trained model weights
+    - Process JSON data using Detectron2 to register in COCO format, where we compute the centre point of a complex polygon
+        & used Bezier curve fitting techniques to compute control points of a complex curve
+    - Pre-train the model using our custom dataset (TODO)
+    - Evaluation (TODO)
 ```
 ## C++ : Systems programming language
 ```
