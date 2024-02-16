@@ -19,8 +19,8 @@ I'm writing content on a variety of topics, including:
 - [Computing System]({% post_url 2024-01-26-computing-system %})
 
 #### Visualization | Art of Perceiving
-- [Computer Graphics: Crafting the Illusion & Dreams of Machine](% post_url 2024-02-16-graphics.md %)
-- [ Scientific Visualization: Raw Data to Insight]({% post_url 2024-02-16-visualization.md %})
+- [Computer Graphics: Crafting the Illusion & Dreams of Machine]({% post_url 2024-02-16-graphics %})
+- [Scientific Visualization: Raw Data to Insight]({% post_url 2024-02-16-visualization %})
 - [Geometry & Simulation: Weaving curves and surfaces to shape the reality
 ]({% post_url 2024-02-16-geometry_and_simulation %})
   
