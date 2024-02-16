@@ -21,7 +21,9 @@ I'm writing content on a variety of topics, including:
 #### Visualization | Art of Perceiving
 - Computer Graphics: Crafting the Illusion & Dreams of Machine
 - Scientific Visualization: Raw Data to Insight
-- Geometry & Simulation: Weaving curves and surfaces to shape the reality
+- [Geometry & Simulation: Weaving curves and surfaces to shape the reality
+]({% post_url 2024-02-16-geometry_and_simulation %})
+  
 
 #### Multi-Model Signal Processing | Understanding Signals
 - Digital Signal Processing 
