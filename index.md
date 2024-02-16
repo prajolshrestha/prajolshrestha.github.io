@@ -4,7 +4,7 @@ title: Home
 ---
 # Quest on Tech & Life | Prajol Shrestha 
 
-Hey everyone I'm Prajol, and welcome to the realm of knowledge and exploration! 
+Hey everyone I'm Prajol, and welcome to my corner of exploration! 
 Here, I navigate the hyper-dimensional space of technology and life intuitively. 
 
 I'm writing content on a variety of topics, including:
@@ -17,6 +17,11 @@ I'm writing content on a variety of topics, including:
 - Communication System 
 - [Memory System]({% post_url 2024-02-06-memory_system %})
 - [Computing System]({% post_url 2024-01-26-computing-system %})
+
+#### Visualization | Art of Perceiving
+- Computer Graphics: Crafting the Illusion & Dreams of Machine
+- Scientific Visualization: Raw Data to Insight
+- Geometry & Simulation: Weaving curves and surfaces to shape the reality
 
 #### Multi-Model Signal Processing | Understanding Signals
 - Digital Signal Processing 
