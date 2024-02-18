@@ -28,7 +28,7 @@ I'm writing content on a variety of topics, including:
 #### Multi-Model Signal Processing | Understanding Signals
 - Transformation in Signal Processing
 - Digital Signal Processing 
-- [Image & Video Processing: Language of Vision] ({% post_url 2024-02-18-image_and_video_processing %})
+- [Image & Video Processing: Language of Vision]({% post_url 2024-02-18-image_and_video_processing %})
 - Computer Vision: Beyond Pixels
 - Audio and Speech Processing: Language of Sound
 - Natural Language Processing: Language of Thought
