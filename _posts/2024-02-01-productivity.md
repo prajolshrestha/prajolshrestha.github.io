@@ -91,6 +91,10 @@ Basic requirements.
 9. Active Listening
 10. Plan your next 5 moves.
 ```
+## Brain cannot differentiate between actual experience and imagined experience!
+```
+The brain struggles to distinguish between actual and imagined experiences due to overlapping neural pathways, intensified by emotions and sensory engagement. Intuition further complicates distinctions, relying on subtle cues and subconscious processing. Intuition, while valuable, can sometimes feel like a blend of imagination and reality, guiding decisions without clear conscious reasoning. Acknowledging intuition's biases & limitations is crucial. Despite challenges, the brain differentiates reality from imagination, yet intuition adds complexity. Understanding these dynamics enriches perception and decision-making capabilities.
+```
 
 ## Q. How to identify & manage stressful situation?
 ```
