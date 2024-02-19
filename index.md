@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Quest on a Well-lived Life with Tech | Prajol Shrestha 
+# Quest for a Well-lived Life with Tech | Prajol Shrestha 
 
 Hey everyone I'm Prajol, and welcome to my corner of exploration! 
 Here, I navigate the hyper-dimensional space of technology and life intuitively. 
