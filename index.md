@@ -29,7 +29,7 @@ I'm writing content on a variety of topics, including:
 - Transformation in Signal Processing
 - Digital Signal Processing 
 - [Image & Video Processing: Language of Vision]({% post_url 2024-02-18-image_and_video_processing %})
-- Computer Vision: Beyond Pixels
+- [Computer Vision: Beyond Pixels]({% post_url 2024-02-21-computer_vision %})
 - Audio and Speech Processing: Language of Sound
 - Natural Language Processing: Language of Thought
   
