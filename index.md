@@ -59,5 +59,8 @@ The content I create reflects how I would have wanted to learn about Technology 
 - [How to install Rust on WSL?]({% post_url 2024-01-21-How to install Rust in WSL? %})
 
 
+- Note: This page is continuously being updated. To date it is incomplete and only the most important topic names are included. 
+
+
 ## Contact
 🔗 [Linkedln](https://www.linkedin.com/in/prajolshresthaa/)
