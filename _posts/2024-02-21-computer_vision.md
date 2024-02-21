@@ -10,27 +10,27 @@ title: Computer Vision
 - Binary Image
 - Low-level Image Processing basics
 
-## Features and Boundary
+## 2. Features and Boundary
 - Edge Detection
 - Boundary Detection
 - SIFT Detector
 - Image Stitching
 - Face Detection
 
-## 3D Reconstruction [Single Viewpoint]
+## 3. 3D Reconstruction [Single Viewpoint]
 - Radiometry & Reflectance
 - Photometric Stereo
 - Shape from shading
 - Depth from Defocus
 - Active Illumination Methods
 
-## 3D Reconstruction [Multiple Viewpoint]
+## 4. 3D Reconstruction [Multiple Viewpoint]
 - Camera Calibration
 - Uncalibrated Stereo
 - Optical Flow
 - Structure from Motion
 
-## Visual Perception
+## 5. Visual Perception
 - Object Tracking
 - Image Segmentation
 - Appearance Matching
