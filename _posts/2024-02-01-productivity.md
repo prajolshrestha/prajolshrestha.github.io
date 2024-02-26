@@ -76,6 +76,12 @@ Basic requirements.
 4. Other people's judgements and each day's frustrations -> Simply ignore and be away from those types of people
 5. Things that can't be controlled -> Don't try to control it
 6. Mind's endless streams of doubts -> Be optimistic -> Use the 5-sec rule [count from 5 to 1 to stop a thought]
+7. Learn to filter people who use victim card(self-victmizing people).
+   - 
+Playing the victim (also known as victim playing, victim card, or self-victimization) is the fabrication or exaggeration of victimhood
+ for a variety of reasons such as to justify abuse to others, to manipulate others, a coping strategy, attention seeking or diffusion of responsibility.
+
+
 ```
 
 ## Q. How to be creative & innovative?
