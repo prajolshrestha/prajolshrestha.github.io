@@ -67,11 +67,11 @@ Research Projects (approx. 6-months workload)
     - Evaluation (TODO)
 ```
 ## C++ : Systems programming language
-
 - Welcome to the world of objects.
 - Objects are essentially reusable software components that model items in the real world.
 - C++(object oriented) focus on objects(nouns) where as C(action oriented)(procedural) focus on actions(verbs).
 - In c++, unit of programming is class. Where as, In c, unit of programming is function.
+
 ```
 Basics                                 Intermediate                          Advanced (Running)         
 1. Data types                          1. OOPs                               1. Parallel STL Algo                             
