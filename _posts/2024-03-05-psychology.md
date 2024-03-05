@@ -67,7 +67,7 @@ f. Symmetry
 Contribution: Perception & Learning
 ```
 
-Psychoanalytic Psychology: Focus role of unconsious thoughts and feelings in shaping individual behaviour : Sigmund Freud
+5. Psychoanalytic Psychology: Focus role of unconsious thoughts and feelings in shaping individual behaviour : Sigmund Freud
 
 ```
 Mind consists of "miniature minds" that compete with eachother for control of behaviour.
@@ -90,7 +90,7 @@ Q. How to reduce or redirect anxiety?
    b. Sublimation: Convert negative thoughts to positive [eg, Play sport hence, express your energy in positive way] [Not harmful but beware]
 ```
 
-5. Behaviourism: Study of behaviour
+6. Behaviourism: Study of behaviour
    
 ```
 Mind is black box. [ie, too complex & incapable of being measured in an objective and scientific way]
