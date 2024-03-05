@@ -14,6 +14,7 @@ title: Psychology
 2. Hypothetic-deductive approach
       -> Experiments -> Hypothesis Testing -> Adjust/Construct Theories -> New Hypothesis
 3. Experiments
+
 ```
                             (Independent variable eg. Music condition)
                                     -> Experimental Group ->
@@ -28,7 +29,6 @@ Example: Hypothesis: Music interferes number of word count memorization(dependen
 
           Hence, It supports our hypothesis.
 ```
-
 ## Theories
 1. Voluntarism:
 ```
