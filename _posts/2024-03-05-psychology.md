@@ -43,12 +43,15 @@ What is mind? => Passive agent with "mental elements"(a basic element of mind), 
                                        - 44000 sensation elements (33000 visual & 11000 auditory) ]
 ```
 3. Functionalism:
+   
 ```
 What is mind? => Stream of consiousness
                 (ie, "Mental process & function" undergoing continuous flow or change (like flow of water) instead of "mental elements")
 
 ```
+
 4. Gestalt Psychology: Whole is greater than sum of its parts. | Focus more on individual conscious experience & perception of world.
+
 ```
 Concious whole cannot be reduced into "list or description of their parts".
         [Like in physics: Atoms organized when subjected to field of force]
@@ -63,7 +66,9 @@ f. Symmetry
 
 Contribution: Perception & Learning
 ```
+
 Psychoanalytic Psychology: Focus role of unconsious thoughts and feelings in shaping individual behaviour | Sigmund Freud
+
 ```
 Mind consists of "miniature minds" that compete with eachother for control of behaviour.
 
@@ -84,7 +89,9 @@ Q. How to reduce or redirect anxiety?
 => a. Repression: Push your thoughts and feelings out of consious awareness [ie, Try to be less aware] [but, Harmful in long term]
    b. Sublimation: Convert negative thoughts to positive [eg, Play sport hence, express your energy in positive way] [Not harmful but beware]
 ```
+
 5. Behaviourism: Study of behaviour
+   
 ```
 Mind is black box. [ie, too complex & incapable of being measured in an objective and scientific way]
 Behaviour is action produced by organism.
