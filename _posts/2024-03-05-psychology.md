@@ -50,7 +50,7 @@ What is mind? => Stream of consiousness
 
 ```
 
-4. Gestalt Psychology: Whole is greater than sum of its parts. | Focus more on individual conscious experience & perception of world.
+4. Gestalt Psychology: Whole is greater than sum of its parts. Focus more on individual conscious experience & perception of world.
 
 ```
 Concious whole cannot be reduced into "list or description of their parts".
@@ -67,7 +67,7 @@ f. Symmetry
 Contribution: Perception & Learning
 ```
 
-Psychoanalytic Psychology: Focus role of unconsious thoughts and feelings in shaping individual behaviour | Sigmund Freud
+Psychoanalytic Psychology: Focus role of unconsious thoughts and feelings in shaping individual behaviour : Sigmund Freud
 
 ```
 Mind consists of "miniature minds" that compete with eachother for control of behaviour.
