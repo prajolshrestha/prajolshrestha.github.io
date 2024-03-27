@@ -64,4 +64,6 @@ The content I create reflects how I would have wanted to learn about Technology 
 
 
 ## Contact
-🔗 [Linkedln](https://www.linkedin.com/in/prajolshresthaa/)
+🔗 [Linkedln](https://www.linkedin.com/in/prajolshresthaa/) 
+🔗 [GitHub](https://github.com/prajolshrestha)
+🔗 [HuggingFace](https://huggingface.co/prajolshrestha)
