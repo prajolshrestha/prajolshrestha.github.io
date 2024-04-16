@@ -8,18 +8,18 @@ title: Deep Learning
 
 # Main steps in Deep Learning 
 ```
-1. Problem Modeling
-2. Data curating
-3. Architecture
+1. Problem Modeling:   Formulate problem to model
+2. Data curation:      To inform model
+3. Architecture Design:     To represent the model
 - Deep Feed Forward Networks (ANN)
 - Convolutional Networks (CNN)
 - Sequence Modeling (RNNs)
 - Transformers (Attention mechanism)
-4. Loss Function
-5. Optimization
+4. Loss Function:    Access performance of the model
+5. Optimization:      To train the model
 - Regularization
 - Optimization
-6. Evaluation Metrics
+6. Evaluation Metrics:     For evaluation
 ```
 
 # Modern Practical Deep Learning
