@@ -7,6 +7,7 @@ title: Deep Learning
 - Machine Learning Basics
 
 # Modern Practical Deep Learning
+```
 | Type of Learning | Description |
 |-------------------|-------------|
 | Supervised Learning | Learning with a teacher. The model is provided with labeled examples and learns to map input data to corresponding output labels. It's like learning from a textbook with answers provided. |
@@ -15,26 +16,29 @@ title: Deep Learning
 | Self-supervised Learning | Learning from oneself. The model generates its own labels from the input data and learns to predict some aspect of the data from other parts of the same data. It's like creating puzzles for yourself and trying to solve them to understand the underlying patterns. |
 | Reinforcement Learning | Learning through interaction. The agent learns to make decisions by interacting with an environment and receiving feedback in the form of rewards or penalties. It's like learning to play a game by trial and error. |
 | Active Learning | Learning with guidance. The algorithm selects which data points to label, aiming to maximize learning efficiency by choosing the most informative instances for labeling. It's like having a tutor who selects the most relevant exercises for you to practice. |
-
-
-1. Supervised Deep Learning
+````
+# Main steps in Machine Learning 
+```
+1. Problem Modeling
+2. Data curating
+3. Architecture
 - Deep Feed Forward Networks (ANN)
-- Regularization
-- Optimization
 - Convolutional Networks (CNN)
 - Sequence Modeling (RNNs)
-- Transformers
-  
-2. Unsupervised Deep Learning
+- Transformers (Attention mechanism)
+4. Loss Function
+5. Optimization
+- Regularization
+- Optimization
+```
+
+
+# Some Models
 - Autoencoders
 - Restricted Boltzmann Machines (RBMs)
 - Generative Adversarial Networks (GANs)
 - Variational Autoencoders (VAEs)
 - Self-Organizing Maps (SOMs)
-
-3. Semi-Supervised Learning
-
-4. Self-Supervised Learning
 - Contrastive Learning
 - Energy-Based Models (EBMs)
 - Probabilistic Generative Models
@@ -42,7 +46,7 @@ title: Deep Learning
 - Multi-Modal and Multi-View Learning
 - Continual Learning and Lifelong Learning
 
-5. Deep Reinforcement Learning
+# Deep Reinforcement Learning
 - Deep Q-Networks (DQN)
 - Policy Gradient Methods
 - Deep Deterministic Policy Gradient (DDPG)
