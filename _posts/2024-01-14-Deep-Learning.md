@@ -5,7 +5,7 @@ title: Deep Learning
 # Prerequisites
 1. Advanced Applied Math
 - Statistician Algebra (Linear Algebra + Statistics)
-- Differentiation (Calculus)
+- Differentiation (Calculus: ODE + PDE)
 - Probabilistic Number theory (Random Numbers)
 - Abstract Algebra (theory)
 2. Advanced Machine Learning
