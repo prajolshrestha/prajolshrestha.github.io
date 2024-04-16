@@ -36,7 +36,8 @@ Semi-supervised Learning      Supervised Learning + Unsupervised Learning.
                               Learning with a limited teacher.
                               The model is trained on a combination of labelled and unlabeled data, leveraging both the provided labels and the inherent structure of the data to improve learning.
                               It's like having some answers but required to figure out the rest on your own. |
-Self-supervised Learning      Learning from oneself.
+Self-supervised Learning      Form of unsupervised Learning.
+                              Learning from oneself.
                               The model generates its own labels from the input data and learns to predict some aspects of the data from other parts of the same data.
                               It's like creating puzzles for yourself and trying to solve them to understand the underlying patterns. |
 Contrastive Learning          Type of Self-Supervised Learning
