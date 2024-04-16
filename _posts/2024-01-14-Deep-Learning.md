@@ -3,12 +3,21 @@ layout: default
 title: Deep Learning
 ---
 # Prerequisites
-- Applied Math Basics
-- Machine Learning Basics
+1. Advanced Applied Math
+- Statistician Algebra (Linear Algebra + Statistics)
+- Differentiation (Calculus)
+- Probabilistic Number theory (Random Numbers)
+- Abstract Algebra (theory)
+2. Advanced Machine Learning
+- Pattern Recognition
+- Pattern Analysis
+- Bias and Variance
+- Optimization
+- Regularization 
 
 # Main steps in Deep Learning 
 ```
-1. Problem Modeling:   Formulate problem to model
+1. Problem Modeling:   Formulate a problem to model
 2. Data curation:      To inform model
 3. Architecture Design:     To represent the model
 - Deep Feed Forward Networks (ANN)
@@ -36,7 +45,7 @@ Semi-supervised Learning      Supervised Learning + Unsupervised Learning.
                               Learning with a limited teacher.
                               The model is trained on a combination of labelled and unlabeled data, leveraging both the provided labels and the inherent structure of the data to improve learning.
                               It's like having some answers but required to figure out the rest on your own. |
-Self-supervised Learning      Form of unsupervised Learning.
+Self-supervised Learning      Form of Unsupervised Learning.
                               Learning from oneself.
                               The model generates its own labels from the input data and learns to predict some aspects of the data from other parts of the same data.
                               It's like creating puzzles for yourself and trying to solve them to understand the underlying patterns. |
@@ -73,6 +82,9 @@ Meta-Learning	                Learning to learn.
 - Unsupervised Representation Learning
 - Multi-Modal and Multi-View Learning
 - Continual Learning and Lifelong Learning
+- Model-Based Reinforcement Learning
+- Distributional Reinforcement Learning
+- Hierarchical Reinforcement Learning
 
 # Deep Reinforcement Learning
 - Deep Q-Networks (DQN)
@@ -80,9 +92,6 @@ Meta-Learning	                Learning to learn.
 - Deep Deterministic Policy Gradient (DDPG)
 - Twin Delayed DDPG (TD3)
 - Soft Actor-Critic (SAC)
-- Model-Based Reinforcement Learning
-- Distributional Reinforcement Learning
-- Hierarchical Reinforcement Learning
 - Self-Play
 
 #  Deep Learning Research
