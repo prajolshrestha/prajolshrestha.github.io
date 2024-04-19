@@ -11,9 +11,9 @@ I'm writing content on a variety of topics, including:
 
 ### 1. Technology: Decoding the Digital Universe
 - [Prerequisites]({% post_url 2024-04-19-prerequisites %})
-- [Visualization | Art of Perceiving]({% post_url 2024-04-19-visualization %})
-- [Multi-Model Signal Processing | Understanding Signals]({% post_url 2024-04-19-multimodal_signal_processing %})
-- [Artificial Intelligence | Exploring the Unseen Dimensions of Intelligence]({% post_url 2024-04-19-ai %})
+- [Visualization]({% post_url 2024-04-19-visualization %})
+- [Multi-Model Signal Processing]({% post_url 2024-04-19-multimodal_signal_processing %})
+- [Artificial Intelligence]({% post_url 2024-04-19-ai %})
 
 ### 2. Life: Reflection of thoughts and actions
 - [Philosophy: The Heartbeat of Knowledge]({% post_url 2024-01-14-Philosophy %})
