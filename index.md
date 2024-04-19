@@ -5,7 +5,9 @@ title: Home
 # Quest for a Well-lived Life with Tech | Prajol Shrestha 
 
 Hey everyone I'm Prajol, and welcome to my corner of exploration! 
+I am a research engineer working at the interface of perception, Machine Learning, and Robotics.
 Here, My research connects technology and life intuitively. 
+The content I create reflects how I would have wanted to learn about Technology & Life.
 
 I'm writing content on a variety of topics, including:
 
@@ -23,7 +25,7 @@ I'm writing content on a variety of topics, including:
 - [Books: Portals to different dimensions]({% post_url 2024-03-04-books %})
 - Extra Material
 
-The content I create reflects how I would have wanted to learn about Technology & Life.
+
 
 
 ## Recent Posts
