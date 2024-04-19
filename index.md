@@ -7,8 +7,8 @@ title: Home
 Hey everyone I'm Prajol, and welcome to my corner of exploration! 
 I am a research engineer working at the interface of perception, Machine Learning, and Robotics.
 Here, My research connects technology and life intuitively. 
-The content I create reflects how I would have wanted to learn about Technology & Life.
 
+The content I create reflects how I would have wanted to learn about Technology & Life.
 I'm writing content on a variety of topics, including:
 
 ### 1. Technology: Decoding the Digital Universe
@@ -28,8 +28,7 @@ I'm writing content on a variety of topics, including:
 
 
 
-## Recent Posts
-
+### Recent Posts
 - [Tutorial on WSL2]({% post_url 2024-01-03-wsl2-tutorial %})
 - How to configure WSL?
 - [How to connect GitHub with WSL?]({% post_url 2024-01-21-connect_github_with_wsl %})
