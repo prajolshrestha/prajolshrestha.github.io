@@ -36,8 +36,9 @@ I'm writing content on a variety of topics, including:
 - [How to install Rust on WSL?]({% post_url 2024-01-21-How to install Rust in WSL? %})
 
 
-- Note: This page is continuously being updated. To date, only the most important topic names are included. 
 
+
+Note: This page is continuously being updated. To date, only the most important topic names are included. 
 
 ## Contact
 🔗 [Linkedln](https://www.linkedin.com/in/prajolshresthaa/) 
