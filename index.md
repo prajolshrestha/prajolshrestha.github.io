@@ -5,7 +5,7 @@ title: Home
 # Quest for a Well-lived Life with Tech | Prajol Shrestha 
 
 Hey everyone I'm Prajol, and welcome to my corner of exploration! 
-I am a research engineer working at the interface of perception, consciousness, Machine Learning, and Robotics.
+I am a research engineer focusing on the interface of perception, consciousness, machine learning, and robotics.
 Here, My research connects technology and life intuitively. 
 
 The content I create reflects how I would have wanted to learn about Technology & Life.
@@ -29,8 +29,8 @@ I'm writing content on a variety of topics, including:
 -----------------------------------------------------------------------------------------------------------------
 
 ### Recent Posts
+- [Deep Learning]({% post_url 2024-01-14-Deep-Learning %})
 - [Tutorial on WSL2]({% post_url 2024-01-03-wsl2-tutorial %})
-- How to configure WSL?
 - [How to connect GitHub with WSL?]({% post_url 2024-01-21-connect_github_with_wsl %})
 - [How to install Rust on WSL?]({% post_url 2024-01-21-How to install Rust in WSL? %})
 
