@@ -6,7 +6,7 @@ title: Home
 
 Hey everyone I'm Prajol, and welcome to my corner of exploration! 
 I am a research engineer focusing on the interface of perception, consciousness, machine learning, and robotics.
-Here, My research connects technology and life intuitively. 
+Here, My research connects technology and life intuitively. I focus on probabilistic approaches to solving computer vision problems using machine learning.
 
 The content I create reflects how I would have wanted to learn about Technology & Life.
 I'm writing content on a variety of topics, including:
