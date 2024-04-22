@@ -3,7 +3,7 @@ layout: default
 title: MMultimodal Signal Processing
 ---
 
-# Multimodal Signal Processing
+# Cognition: Multimodal Signal Processing
 
 ## Signal processing 
 - [Transformation in Signal Processing]({% post_url 2024-02-27-transformation_in_signal_processing %})
