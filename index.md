@@ -5,7 +5,7 @@ title: Home
 # Quest for a Well-lived Life with Tech | Prajol Shrestha 
 
 Hey everyone I'm Prajol, and welcome to my corner of exploration! 
-I am a research engineer focusing on the interface of perception, consciousness, machine learning, and robotics.
+I am a research engineer focusing on the interface of cognition, signal processing  and intelligent autonomous system.
 Here, My research connects technology and life intuitively.
 
 The content I create reflects how I would have wanted to learn about Technology & Life.
