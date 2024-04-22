@@ -8,5 +8,7 @@ title: MMultimodal Signal Processing
 - Digital Signal Processing 
 - [Image & Video Processing: Language of Vision]({% post_url 2024-02-18-image_and_video_processing %})
 - [Computer Vision: Beyond Pixels]({% post_url 2024-02-21-computer_vision %})
+- Sensor Fusion: Camera, LiDAR, and Radar 
 - [Audio and Speech Processing: Language of Sound]({% post_url 2024-02-21-audio %})
 - Natural Language Processing: Language of Thought
+
