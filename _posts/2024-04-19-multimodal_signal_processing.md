@@ -17,7 +17,7 @@ title: MMultimodal Signal Processing
 - [Computer Vision: Beyond Pixels]({% post_url 2024-02-21-computer_vision %})
 
 ## Signal + Vision 
-- Sensor Fusion: Camera, LiDAR, and Radar (position, depth and velocity)
+- Multi-Sensor Fusion: Camera, LiDAR, and Radar (position, depth and velocity)
 
 ## Audio & Speech
 - [Audio and Speech Processing: Language of Sound]({% post_url 2024-02-21-audio %})
