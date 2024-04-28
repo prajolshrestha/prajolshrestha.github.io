@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Quest for a Well-lived Life with Tech | Prajol Shrestha 
+# Quest for a Well-lived Life with Tech | PRAJOL SHRESTHA
 
 Hey everyone I'm Prajol, and welcome to my corner of exploration! 
 I am a research engineer focusing on the interface of cognition, signal processing  and intelligent autonomous system.
