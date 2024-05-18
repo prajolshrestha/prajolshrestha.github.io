@@ -20,10 +20,11 @@ title: Deep Learning
 1. Problem Modeling:   Formulate a problem to model
 2. Data curation:      To inform model
 3. Architecture Design:     To represent the model
-- Deep Feed Forward Networks (ANN)
+- Deep Feed Forward Networks (ANN) FFN
 - Convolutional Networks (CNN)
 - Sequence Modeling (RNNs)
 - Transformers (Attention mechanism)
+- Auto Encoder (AE)
 4. Loss Function:    Access performance of the model
 5. Optimization:      To train the model
 - Regularization
@@ -78,7 +79,7 @@ Meta-Learning	                Learning to learn.
 - Energy-Based Models (EBMs)
 - Probabilistic Generative Models
 
-# Some extra Learning types
+# Some extra Learning types (Different training protocol)
 - Unsupervised Representation Learning
 - Multi-Modal and Multi-View Learning
 - Continual Learning and Lifelong Learning
