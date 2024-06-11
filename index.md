@@ -5,8 +5,10 @@ title: Home
 # Quest for a Well-lived Life with Tech | PRAJOL SHRESTHA
 
 Hey everyone I'm Prajol, and welcome to my corner of exploration! 
-I am a research engineer focusing on the interface of cognition, signal processing  and intelligent autonomous system.
+I am a research engineer focusing on the interface of cognition, signal processing  and intelligent autonomous systems.
+Personally, I am interested in Philosophy(Stoicism), Psychology(Individual), Cosmology, History, and Topology, though I'm focused on AI these days.
 Here, My research connects technology and life intuitively.
+
 
 The content I create reflects how I would have wanted to learn about Technology & Life.
 I'm writing content on a variety of topics, including:
