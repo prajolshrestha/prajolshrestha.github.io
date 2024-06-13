@@ -8,6 +8,7 @@ Understanding different types of reasoning helps in approaching problems and dec
 Here’s an intuitive guide to various reasoning types.
 
 1. Deductive Reasoning
+
 ```
 What it is: Deductive reasoning starts with a general statement or hypothesis and examines the possibilities to reach a specific, logical conclusion.
 Example: If all birds can fly (general statement), and a robin is a bird, then a robin can fly (specific conclusion).
@@ -25,6 +26,7 @@ Example: Either the light is on, or it is off. The light is not on. Therefore, i
 ```
 
 2. Inductive Reasoning
+
 ```
 What it is: Inductive reasoning starts with specific observations and measures, then moves to broader generalizations and theories.
 Example: If you observe that the sun rises in the east every morning (specific observations), you might conclude that the sun always rises in the east (generalization).
@@ -42,6 +44,7 @@ Example: Observing that plants grow faster when given fertilizer, you infer that
 ```
 
 3. Abductive Reasoning
+
 ```
 What it is: Abductive reasoning begins with an incomplete set of observations and proceeds to the likeliest possible explanation.
 Example: If you come home to find the door open and your dog missing, you might reason that the dog opened the door and ran out, even though you didn’t see it happen.
@@ -56,6 +59,7 @@ Example: If a patient has a fever, cough, and sore throat, you might diagnose th
 ```
 
 4. Analogical Reasoning
+
 ```
 What it is: Analogical reasoning involves understanding a new situation based on its similarity to a known situation.
 Example: If you know how to play the guitar and you need to learn the ukulele, you might reason that both have strings and similar playing techniques.
@@ -73,6 +77,7 @@ Example: Since a car needs fuel to run, you might reason that a new type of vehi
 ```
 
 5. Causal Reasoning
+
 ```
 What it is: Causal reasoning involves identifying relationships between causes and effects.
 Example: If you see that it’s raining and the ground is wet, you conclude that the rain caused the wet ground.
@@ -90,6 +95,7 @@ Example: Lack of exercise contributes to weight gain but is not the only factor.
 ```
 
 6. Statistical Reasoning
+
 ```
 What it is: Statistical reasoning uses data and statistical measures to make conclusions or predictions.
 Example: If 90% of people who eat a certain diet lose weight, you might reason that you are likely to lose weight on that diet.
@@ -107,6 +113,7 @@ Example: If a test for a disease is 99% accurate, Bayesian reasoning helps adjus
 ```
 
 7. Moral Reasoning
+
 ```
 What it is: Moral reasoning evaluates what is right and wrong, often involving ethical principles and societal norms.
 Example: Deciding whether to tell the truth or lie based on the impact it will have on others.
@@ -124,6 +131,7 @@ Example: Acting honestly because it is a virtuous behavior.
 ```
 
 8. Pragmatic Reasoning
+
 ```
 What it is: Pragmatic reasoning focuses on practical consequences and real-world applications.
 Example: Choosing a more reliable but expensive car over a cheaper, less reliable one based on long-term cost benefits.
