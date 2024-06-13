@@ -7,7 +7,7 @@ title: Types of reasoning
 Understanding different types of reasoning helps in approaching problems and decisions from different angles, improving critical thinking and problem-solving skills. 
 Here’s an intuitive guide to various reasoning types.
 
-1. Deductive Reasoning
+## 1. Deductive Reasoning
 
 ```
 What it is: Deductive reasoning starts with a general statement or hypothesis and examines the possibilities to reach a specific, logical conclusion.
@@ -25,7 +25,7 @@ c. Disjunctive Syllogism: This involves "either-or" statements.
 Example: Either the light is on, or it is off. The light is not on. Therefore, it is off.
 ```
 
-2. Inductive Reasoning
+## 2. Inductive Reasoning
 
 ```
 What it is: Inductive reasoning starts with specific observations and measures, then moves to broader generalizations and theories.
@@ -43,7 +43,7 @@ c. Causal Inference: Inferring a cause-and-effect relationship.
 Example: Observing that plants grow faster when given fertilizer, you infer that fertilizer helps plants grow faster.
 ```
 
-3. Abductive Reasoning
+## 3. Abductive Reasoning
 
 ```
 What it is: Abductive reasoning begins with an incomplete set of observations and proceeds to the likeliest possible explanation.
@@ -58,7 +58,7 @@ b. Diagnostic Reasoning: Commonly used in medicine, starting with symptoms to in
 Example: If a patient has a fever, cough, and sore throat, you might diagnose them with the flu.
 ```
 
-4. Analogical Reasoning
+## 4. Analogical Reasoning
 
 ```
 What it is: Analogical reasoning involves understanding a new situation based on its similarity to a known situation.
@@ -76,7 +76,7 @@ c. Predictive Analogy: Using a known analogy to predict outcomes.
 Example: Since a car needs fuel to run, you might reason that a new type of vehicle with a combustion engine will also need fuel.
 ```
 
-5. Causal Reasoning
+## 5. Causal Reasoning
 
 ```
 What it is: Causal reasoning involves identifying relationships between causes and effects.
@@ -94,7 +94,7 @@ c. Contributory Causation: An event contributes to a result but is not the sole 
 Example: Lack of exercise contributes to weight gain but is not the only factor.
 ```
 
-6. Statistical Reasoning
+## 6. Statistical Reasoning
 
 ```
 What it is: Statistical reasoning uses data and statistical measures to make conclusions or predictions.
@@ -112,7 +112,7 @@ c. Bayesian Reasoning: Updating the probability of a hypothesis as more evidence
 Example: If a test for a disease is 99% accurate, Bayesian reasoning helps adjust the probability of actually having the disease based on positive test results.
 ```
 
-7. Moral Reasoning
+## 7. Moral Reasoning
 
 ```
 What it is: Moral reasoning evaluates what is right and wrong, often involving ethical principles and societal norms.
@@ -130,7 +130,7 @@ c. Virtue Ethics: Focusing on the character and virtues of the moral agent.
 Example: Acting honestly because it is a virtuous behavior.
 ```
 
-8. Pragmatic Reasoning
+## 8. Pragmatic Reasoning
 
 ```
 What it is: Pragmatic reasoning focuses on practical consequences and real-world applications.
