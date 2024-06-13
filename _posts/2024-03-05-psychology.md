@@ -10,11 +10,11 @@ title: Psychology
 - External Events: Behaviour, Speech
 
 ## Method
-1. Main Method: Questionaries, Survey, Case Study analysis, Recording of behaviour
+1. Main Method: Questionaries, Survey, Case Study Analysis, Recording of behaviour [Note: [Types of Reasoning]({% post_url 2024-06-13-types-of-reasoning %})]
 2. Hypothetic-deductive approach
       -> Experiments -> Hypothesis Testing -> Adjust/Construct Theories -> New Hypothesis
 3. Experiments
-Note: [Types of Reasoning]({% post_url 2024-06-13-types-of-reasoning %}) 
+
 ```
                             (Independent variable eg. Music condition)
                                     -> Experimental Group ->
