@@ -23,7 +23,6 @@ a. Formal Logic:
   - Propositional Logic: Deals with propositions as units and logical connectives.
   - Predicate Logic: Extends propositional logic by including quantifiers and predicates, allowing for more detailed and expressive arguments.
   - Modal Logic: Introduces modalities such as necessity and possibility.
-
 b. Informal Logic:
   - Argument Analysis: Focuses on the evaluation of arguments in everyday language, identifying fallacies, and improving critical thinking.
   - Dialectics: Examines the structure of discourse and argumentation in practical contexts, such as debates and discussions.
