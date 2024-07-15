@@ -32,7 +32,6 @@ b. Informal Logic:
 ```
 a. Classical Logic:
   - Principles: Adheres to the law of non-contradiction (a statement cannot be both true and false) and the law of excluded middle (a statement is either true or false).
-
 b. Non-Classical Logics:
   - Modal Logic: Studies modes of truth, such as necessity and possibility.
   - Intuitionistic Logic: Rejects the law of excluded middle and emphasizes constructivist approaches to mathematics.
