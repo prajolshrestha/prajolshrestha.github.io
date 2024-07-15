@@ -12,16 +12,16 @@ title: MMultimodal Signal Processing
 - LiDAR signal processing 
 - Radar signal processing 
 
-## VISION 
+## A.VISION 
 - [Image & Video Processing: Language of Vision]({% post_url 2024-02-18-image_and_video_processing %})
 - [Computer Vision: Beyond Pixels]({% post_url 2024-02-21-computer_vision %})
 
-## Signal + Vision 
+# Signal + Vision 
 - Multi-Sensor Fusion: Camera, LiDAR, and Radar (position, depth and velocity)
 
-## Audio & Speech
+## B.Audio & Speech
 - [Audio and Speech Processing: Language of Sound]({% post_url 2024-02-21-audio %})
 
-## Language 
+## C.Language 
 - Natural Language Processing: Language of Thought
 
