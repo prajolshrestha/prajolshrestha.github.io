@@ -17,7 +17,7 @@ I'm writing content on a variety of topics, including:
 - [Visualization: Art of Perceving]({% post_url 2024-04-19-visualization %})
 - [Multi-Model Signal Processing: Understanding Signals]({% post_url 2024-04-19-multimodal_signal_processing %})
 - [Artificial Intelligence: Exploring the Unseen Dimensions of Intelligence]({% post_url 2024-04-19-ai %})
-- Robotics (buffering....)
+- [Robotics]({% post_url 2024-07-15-robotics %})
 
 ### 2. Life: Reflection of thoughts and actions
 - [Philosophy: The Heartbeat of Knowledge]({% post_url 2024-01-14-Philosophy %})
