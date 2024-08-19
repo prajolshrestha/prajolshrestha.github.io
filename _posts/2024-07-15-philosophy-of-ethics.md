@@ -39,7 +39,7 @@ c. Virtue Ethics:
     Analyze real-life ethical dilemmas and make decisions based on normative moral theories.
 
 ```
-
+## Loyalty vs Integrity
 | **Aspect**            | **Loyalty**                                    | **Integrity**                                  |
 |-----------------------|------------------------------------------------|-----------------------------------------------|
 | **Definition**        | Commitment to a person, group, or cause.      | Adherence to moral principles and values.    |
