@@ -39,3 +39,14 @@ c. Virtue Ethics:
     Analyze real-life ethical dilemmas and make decisions based on normative moral theories.
 
 ```
+
+| **Aspect**            | **Loyalty**                                    | **Integrity**                                  |
+|-----------------------|------------------------------------------------|-----------------------------------------------|
+| **Definition**        | Commitment to a person, group, or cause.      | Adherence to moral principles and values.    |
+| **Basis**             | Often based on relationships or mutual benefits. | Based on ethical principles and personal morals. |
+| **Condition**         | Can be conditional or transactional; may end if benefits stop. | Usually unconditional; remains constant regardless of circumstances. |
+| **Focus**             | Support and allegiance to others.              | Doing what is right and just.                 |
+| **Potential Conflict**| Can conflict with ethical standards if supporting someone involves compromising principles. | Can conflict with loyalty if following principles means opposing those to whom one is loyal. |
+| **Example**           | Supporting a friend even when they are in the wrong because of personal loyalty. | Refusing to participate in unethical practices even if it means losing a job or facing personal loss. |
+| **Long-Term Impact**  | May lead to ethical compromises if loyalty is prioritized over principles. | Often leads to consistent ethical behaviour and trustworthiness. |
+
