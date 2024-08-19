@@ -39,7 +39,12 @@ c. Virtue Ethics:
     Analyze real-life ethical dilemmas and make decisions based on normative moral theories.
 
 ```
-## Loyalty vs Integrity
+## Loyalty vs. Integrity
+
+The tension between loyalty and integrity is a common ethical dilemma. Loyalty involves a deep commitment to a person, group, or cause, often leading to a willingness to support them even when it might not be entirely justified. Integrity, on the other hand, is about adhering to moral principles and doing what is right, even if it means going against those to whom one is loyal.
+
+Here’s a comparison of the two concepts:
+
 | **Aspect**            | **Loyalty**                                    | **Integrity**                                  |
 |-----------------------|------------------------------------------------|-----------------------------------------------|
 | **Definition**        | Commitment to a person, group, or cause.      | Adherence to moral principles and values.    |
@@ -48,5 +53,8 @@ c. Virtue Ethics:
 | **Focus**             | Support and allegiance to others.              | Doing what is right and just.                 |
 | **Potential Conflict**| Can conflict with ethical standards if supporting someone involves compromising principles. | Can conflict with loyalty if following principles means opposing those to whom one is loyal. |
 | **Example**           | Supporting a friend even when they are in the wrong because of personal loyalty. | Refusing to participate in unethical practices even if it means losing a job or facing personal loss. |
-| **Long-Term Impact**  | May lead to ethical compromises if loyalty is prioritized over principles. | Often leads to consistent ethical behaviour and trustworthiness. |
+| **Long-Term Impact**  | May lead to ethical compromises if loyalty is prioritized over principles. | Often leads to consistent ethical behavior and trustworthiness. |
+
+In summary, while loyalty can be important, it becomes ethically problematic if it compromises integrity. Integrity tends to be seen as a more fundamental value because it is based on unwavering principles rather than contingent benefits.
+
 
