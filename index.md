@@ -43,5 +43,6 @@ Note: This page is continuously being updated. To date, only the most important 
 🔗 [Linkedln](https://www.linkedin.com/in/prajolshresthaa/) 
 🔗 [GitHub](https://github.com/prajolshrestha)
 🔗 [HuggingFace](https://huggingface.co/prajolshrestha)
+🔗 [wandb](https://wandb.ai/prajolshrestha)
 
 #For our peace and prosperity.
