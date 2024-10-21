@@ -5,8 +5,8 @@ title: Home
 # Quest for a Well-lived Life with Tech | PRAJOL SHRESTHA
 
 Hey everyone I'm Prajol, and welcome to my corner of exploration! 
-I am a research engineer focusing on the interface of cognition, signal processing  and intelligent autonomous systems.
-Personally, I am interested in Philosophy(Stoicism), Psychology(Individual), Cosmology, History, and Topology, though I'm focused on AI these days. I have a belief: Machine Learning is easy to understand! Why do it look so hard, then? Very often, beautiful concepts are hidden behind layers upon layers of abstraction, making them unnecessarily complex. Complex algorithms and formulas reduce to common sense when viewed from the right angle. Here, My research connects technology and life intuitively.
+I am a research engineer focusing on the interface of cognition, signal processing,  and intelligent autonomous systems.
+Personally, I am interested in Philosophy(Stoicism), Psychology(Individual), Cosmology, History, and Topology, though I'm focused on AI these days. I have a belief: Machine Learning is easy to understand! Why does it look so hard, then? Very often, beautiful concepts are hidden behind layers upon layers of abstraction, making them unnecessarily complex. Complex algorithms and formulas reduce to common sense when viewed from the right angle. Here, My research connects technology and life intuitively.
 
 
 The content I create reflects how I would have wanted to learn about Technology & Life.
@@ -42,7 +42,9 @@ Note: This page is continuously being updated. To date, only the most important 
 ## Contact
 🔗 [Linkedln](https://www.linkedin.com/in/prajolshresthaa/) 
 🔗 [GitHub](https://github.com/prajolshrestha)
+🔗 [ORCiD](https://orcid.org/0009-0005-9585-3800)
 🔗 [HuggingFace](https://huggingface.co/prajolshrestha)
 🔗 [wandb](https://wandb.ai/prajolshrestha)
+
 
 #For our peace and prosperity.
