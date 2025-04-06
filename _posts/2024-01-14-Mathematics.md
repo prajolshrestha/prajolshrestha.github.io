@@ -5,13 +5,15 @@ title: Mathematics
 
 # Big Picture of Mathematics Beyond equations and theorems 
 
-### 1. Linear Algebra [Vector Spaces] - Relation
+### 1. [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) [Vector Spaces] - Relation
 - Python Modules: NumPy, SciPy, SymPy
 
-### 2. Calculus [Real and Complex Analysis] - Change
+### 2. [Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) [Real and Complex Analysis] - Change
 - Python Modules: SymPy, SageMath
 
-### 3. Matrix Calculus - Relation and change
+[Differential Equations and Linear Algebra](https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/pages/differential-equations-and-linear-algebra/)
+
+### 3. [Matrix Calculus](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/) - Relation and change
 - Python Modules: NumPy, SymPy, PyTorch, TensorFlow
 
 ### 4. Abstract Algebra - Groups, Rings, Fields
@@ -23,7 +25,7 @@ title: Mathematics
 ### 6. Probability - Chance
 - Python Modules: SciPy, random
 
-### 7. Statistics - Analysis
+### 7. [Statistics](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/syllabus/) - Analysis
 - Python Modules: Pandas, NumPy, Statsmodels, Scikit-learn
 
 ### 8. Algebraic Topology
